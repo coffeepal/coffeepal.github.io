@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: coffeepal - coffee and tech
+title: coffeepal
 email: info@coffeepal.com
 author: coffeepal
 
@@ -146,12 +146,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
+ header_pages:
 #   - index.html
 #   - archives.html
 #   - categories.html
 #   - tags.html
-#   - about.md
+   - about.md
 
 # Page default value
 # defaults:
