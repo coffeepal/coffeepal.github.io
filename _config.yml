@@ -207,3 +207,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  
+google-analytics: GOOGLE_ANALYTICS_ID
